@@ -1,0 +1,7 @@
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Promedio_alumnos\obj\Debug\Promedio_alumnos.csproj.AssemblyReference.cache
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Promedio_alumnos\obj\Debug\Promedio_alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Promedio_alumnos\bin\Debug\Promedio_alumnos.exe.config
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Promedio_alumnos\bin\Debug\Promedio_alumnos.exe
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Promedio_alumnos\bin\Debug\Promedio_alumnos.pdb
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Promedio_alumnos\obj\Debug\Promedio_alumnos.exe
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Promedio_alumnos\obj\Debug\Promedio_alumnos.pdb

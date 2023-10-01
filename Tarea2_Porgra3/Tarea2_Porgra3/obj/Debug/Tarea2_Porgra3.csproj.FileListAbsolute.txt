@@ -1,0 +1,7 @@
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Tarea2_Porgra3\bin\Debug\Tarea2_Porgra3.exe.config
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Tarea2_Porgra3\bin\Debug\Tarea2_Porgra3.exe
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Tarea2_Porgra3\bin\Debug\Tarea2_Porgra3.pdb
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Tarea2_Porgra3\obj\Debug\Tarea2_Porgra3.csproj.AssemblyReference.cache
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Tarea2_Porgra3\obj\Debug\Tarea2_Porgra3.csproj.CoreCompileInputs.cache
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Tarea2_Porgra3\obj\Debug\Tarea2_Porgra3.exe
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Tarea2_Porgra3\obj\Debug\Tarea2_Porgra3.pdb

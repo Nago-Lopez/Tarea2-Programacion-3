@@ -1,0 +1,7 @@
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Productos\bin\Debug\Productos.exe.config
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Productos\bin\Debug\Productos.exe
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Productos\bin\Debug\Productos.pdb
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Productos\obj\Debug\Productos.csproj.AssemblyReference.cache
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Productos\obj\Debug\Productos.exe
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Tarea2_Porgra3\Productos\obj\Debug\Productos.pdb
